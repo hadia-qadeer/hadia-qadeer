@@ -95,7 +95,7 @@ My work spans production-level dashboards, REST APIs, deep learning pipelines, a
 <tr>
 <td width="50%">
 
-**🛒 NexaStore — POS & Inventory System**
+**🛒 [NexaStore — POS & Inventory System](https://github.com/hadia-qadeer/NexaStore-IMS-POS)**
 
 Production-level Point-of-Sale system with **65+ features** — role-based dashboards, barcode scanning, AI-driven reorder engine, real-time sales analytics.
 
@@ -104,7 +104,7 @@ Production-level Point-of-Sale system with **65+ features** — role-based dashb
 </td>
 <td width="50%">
 
-**📅 EventSync — Event Management Platform**
+**📅 [EventSync — Event Management System](https://github.com/hadia-qadeer/Event-Management-System)**
 
 Full-stack platform with RESTful APIs, advanced filtering, CRUD operations, and dynamic dashboards for real-time event data management.
 
@@ -134,7 +134,7 @@ Secure account management and transaction processing with data consistency check
 <tr>
 <td width="50%">
 
-**🌾 [Rice Plant Disease Detector](https://github.com/AbdullahQ-AI/rice-disease-detector)**
+**🌾 [Rice Plant Disease Detector](https://github.com/hadia-qadeer/rice-disease-detector)**
 
 Computer vision app detecting 3 rice leaf diseases from images. Trained on 657 images using MobileNetV2 Transfer Learning. Deployed as a Streamlit web app.
 
